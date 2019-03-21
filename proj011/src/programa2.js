@@ -20,9 +20,9 @@ https://www.w3schools.com/jsref/met_win_alert.asp
 
 
 
-  var nome = prompt("Please enter your name", " ");
+  let nome = prompt("Please enter your name");
   if (nome != null) {
-    alert( "Bom dia " + nome)
+     alert( "Bom dia " + nome)
    
   }
 
